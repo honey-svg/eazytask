@@ -39,3 +39,10 @@ EazyTask is a modern, enterprise-grade project management application designed t
    npm run dev
    ```
    The frontend will be available at `http://localhost:5173` and the backend will run on `http://localhost:5000`.
+
+## 🔑 Test Credentials
+
+Use the following credentials to test the application after seeding the database or on https://eazytask-app.up.railway.app
+
+- **Admin:** `rohan@eazytask.com` / `password123`
+- **Member:** `priya@eazytask.com` / `password123`
